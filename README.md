@@ -6,17 +6,11 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 ## Project Highlights
 
-### Performance Dashboard
-[![Performance Dashboard Preview](images/performance-dashboard-preview.png)](https://github.com/adesonaomolabake09-svg/performance-dashboard)  
-[Open Performance Dashboard Repository](https://github.com/adesonaomolabake09-svg/performance-dashboard)  
-Tracks key performance metrics. While creating it, I learned how to structure data for meaningful insights, choose the right visualizations, and use Excel/Power BI effectively.  
-More details and files are available in the repository.
+- **[Performance Dashboard](https://github.com/adesonaomolabake09-svg/performance-dashboard)**  
+  Tracks key performance metrics. While creating it, I learned how to structure data for meaningful insights, choose the right visualizations, and use Excel/Power BI effectively.
 
-### Sales Dashboard
-[![Sales Dashboard Preview](images/sales-dashboard-preview.png)](https://github.com/adesonaomolabake09-svg/sales-dashboard)  
-[Open Sales Dashboard Repository](https://github.com/adesonaomolabake09-svg/sales-dashboard)  
-An interactive dashboard showcasing sales trends and product performance. Building it improved my ability to clean and organize data, analyze trends, and design dashboards that communicate insights clearly.  
-More details and files are available in the repository.
+- **[Sales Dashboard](https://github.com/adesonaomolabake09-svg/sales-dashboard)**  
+  An interactive dashboard showcasing sales trends and product performance. Building it improved my ability to clean and organize data, analyze trends, and design dashboards that communicate insights clearly.
 
 ---
 
