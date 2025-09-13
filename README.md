@@ -16,6 +16,21 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 ## Skills & Tools
 
+**Core skills**
+- Excel — data cleaning, pivot tables, dashboard design
+- Data visualization — chart selection, storytelling with data
+- SQL — SELECT, JOIN, GROUP BY, aggregations, filtering
+- Data analysis — exploratory data analysis, basic statistics
+
+**Tools & libraries**
+- Excel (advanced) — Power Query, pivot tables, formulas
+- Power BI — interactive reports, DAX basics, publishing
+- Python (learning) — Pandas, Matplotlib
+- Git & GitHub — version control, portfolio management
+
+
+## Skills & Tools
+
 | Tool / Skill   | What I Use It For |
 |----------------|--------------------|
 | **Excel**      | Data cleaning, pivot tables, dashboards |
