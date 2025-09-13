@@ -50,4 +50,4 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 Thank you for visiting this repository. I am continuously learning and improving my skills. Feedback and collaboration are always welcome.  
 You can reach me via my GitHub profile or connect through LinkedIn: [Omolabake Adesona](https://www.linkedin.com/in/omolabake-adesona)
-[Download My CV]([Omolabake_Adesona_CV.pdf]
+[Download My CV](https://github.com/adesonaomolabake09-svg/My-Data-Portfolio/commit/56227dc5da47c9dcde40d6d4493cb2c278c0cd5a)
