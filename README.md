@@ -46,12 +46,9 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 ---
 
-## Contact
+### 🏅 Certifications
+- Data Analytics Job Simulation, Deloitte (July 2025)
 
-Thank you for visiting this repository. I am continuously learning and improving my skills. Feedback and collaboration are always welcome.  
-You can reach me via my GitHub profile or connect through LinkedIn: [Omolabake Adesona](https://www.linkedin.com/in/omolabake-adesona)
-
-[Download My CV](https://github.com/adesonaomolabake09-svg/My-Data-Portfolio/blob/main/CV_Omolabake%20Josephine%20Adesona.pdf)
 
 ### 💬 Testimonials
 > *"Omolabake demonstrates strong analytical thinking and a genuine curiosity for solving problems with data. She consistently seeks feedback and applies it to improve her work."*  
@@ -62,3 +59,11 @@ You can reach me via my GitHub profile or connect through LinkedIn: [Omolabake A
 
 > *"I was impressed with her discipline and commitment to continuous learning. She approaches tasks with professionalism and attention to detail."*  
 — Academic Supervisor
+
+
+## Contact
+
+Thank you for visiting this repository. I am continuously learning and improving my skills. Feedback and collaboration are always welcome.  
+You can reach me via my GitHub profile or connect through LinkedIn: [Omolabake Adesona](https://www.linkedin.com/in/omolabake-adesona)
+
+[Download My CV](https://github.com/adesonaomolabake09-svg/My-Data-Portfolio/blob/main/CV_Omolabake%20Josephine%20Adesona.pdf)
