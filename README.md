@@ -17,7 +17,7 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 ## Skills & Tools
 
 
-| Tool / Skill   | Description |
+| Skill   | Description |
 |----------------|--------------------|
 | **Data Analysis**  | Exploratory data analysis, basic statistics |
 | **Data Visualization** | Storytelling with data, chart selection, interactive reporting |
