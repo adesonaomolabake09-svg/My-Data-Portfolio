@@ -17,7 +17,7 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 ## Skills & Tools
 
 
-| Tool / Skill   | What I Use It For |
+| Tool / Skill   | Description |
 |----------------|--------------------|
 | **Excel**      | Data cleaning, pivot tables, dashboards |
 | **Power BI**   | Data visualization, storytelling with data, interactive reporting |
