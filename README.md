@@ -14,11 +14,15 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 ---
 
-## Skills
+## Skills & Tools
 
-- Excel: Data cleaning, pivot tables, dashboards  
-- Power BI: Data visualization, interactive reporting, DAX  
-- SQL: Writing queries, filtering, joins, aggregations  
+| Tool / Skill   | What I Use It For |
+|----------------|--------------------|
+| **Excel**      | Data cleaning, pivot tables, dashboards |
+| **Power BI**   | Data visualization, interactive reporting, DAX |
+| **SQL**        | Writing queries, filtering, joins, aggregations |
+| **GitHub**     | Version control, project collaboration |
+| **Python** (beginner) | Data analysis, Pandas, basic visualization | 
 
 ---
 
