@@ -19,21 +19,20 @@ I am an aspiring Data Analyst currently developing my skills in data analysis, v
 
 | Tool / Skill   | Description |
 |----------------|--------------------|
+| **Data Analysis**  | Exploratory data analysis, basic statistics |
+| **Data Visualization** | Storytelling with data, chart selection, interactive reporting |
 | **Excel**      | Data cleaning, pivot tables, dashboards |
-| **Power BI**   | Data visualization, storytelling with data, interactive reporting |
 | **SQL**        | Writing queries, filtering, joins, aggregations |
-| **GitHub**     | Version control, project collaboration |
 | **Python** (beginner) | Data analysis, Pandas, basic visualization | 
-| **Data analysis**  | Exploratory data analysis, basic statistics |
-
+| **Collaboration**  | Version control, teamwork using GitHub |
 
 ### Tools & Libraries
 | Tool / Library     | What I Use It For |
 |--------------------|--------------------|
 | **Excel (advanced)** | Power Query, pivot tables, formulas |
-| **Power BI**       | Interactive reports, DAX basics, publishing |
-| **Python (learning)** | Pandas, Matplotlib |
-| **GitHub**   | Version control, portfolio management |
+| **Power BI**       | Interactive reports, DAX basics, publishing reports |
+| **Python (learning)** | Pandas for data wrangling, Matplotlib for visualization |
+| **GitHub**   | Version control, portfolio management, portfolio hosting |
 
 
 ---
